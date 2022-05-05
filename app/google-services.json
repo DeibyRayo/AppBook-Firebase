@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816156703460",
+    "project_id": "appbook-firebase",
+    "storage_bucket": "appbook-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816156703460:android:5826990a7569295f768af1",
+        "android_client_info": {
+          "package_name": "dev.deiby.esteban.appbook_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816156703460-klftmp27blmr9ok5rgna1nhdpp1obeel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9d-omxvaEFqkN-gu8g0zYMzC24SnjFNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816156703460-klftmp27blmr9ok5rgna1nhdpp1obeel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
