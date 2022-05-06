@@ -40,6 +40,12 @@ class SignInActivity : AppCompatActivity() {
             val intent = Intent(this, SignUpActivity::class.java)
             startActivity(intent)
         }
+
+        binding.recoveryAccountTextView.setOnClickListener {
+            val intent = Intent(this, AccountRecoveryActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 
     public override fun onStart() {
