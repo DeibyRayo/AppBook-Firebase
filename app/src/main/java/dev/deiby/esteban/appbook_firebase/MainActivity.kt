@@ -95,6 +95,7 @@ class MainActivity : AppCompatActivity() {
                     }
             }
         }.addOnFailureListener {
+            it.printStackTrace()
             Log.i("TAG", "file upload error")
         }
     }
